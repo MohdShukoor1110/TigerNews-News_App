@@ -2,6 +2,8 @@
 
 TigerNews is a web application built with React that fetches and displays top headlines from various categories using the News API. The app provides a clean, responsive interface for browsing news and includes a top loading bar to indicate when new content is being loaded.
 
+## 🔎 WebSite Preview
+<!-- ![Project Screenshot]() -->
 
 ## Features
 
