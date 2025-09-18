@@ -12,6 +12,7 @@ TigerNews is a web application built with React that fetches and displays top he
 - React Router: Utilizes React Router for smooth navigation between different news categories without a full page reload.
 - Dynamic Content: Each news article card displays the title, description, image, source, author, and publication date.
 - External Links: A "Read More" button on each article card takes the user to the full news story on the source website.
+- **Dark/Light Mode:** Toggle between themes for better readability.
 
 
 ## Technologies Used
@@ -43,3 +44,5 @@ TigerNews is a web application built with React that fetches and displays top he
    ```
 
 4. **Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the app.**
+
+Made with ❤️ using React.
